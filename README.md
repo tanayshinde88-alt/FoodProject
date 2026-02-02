@@ -116,6 +116,20 @@ Add more food categories
 
 Use deep learning (CNN)
 
+
+
+Note:
+The dataset is not included due to size limits.
+Download it from: <https://www.kaggle.com/datasets/moltean/fruits>
+
+Place it in the folder:
+
+dataset/apple
+dataset/banana
+dataset/orange
+dataset/mix
+...
+
 Add GUI or web interface
 
 Use real-time camera input
